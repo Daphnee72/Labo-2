@@ -1,0 +1,2 @@
+""" quand les toast on sauter. on veut savoir si il sont correct. si oui on les sort. si non on on regarde si il veut 20 c/
+si non on recommence du debut. si oui on le chauffe 10 segonde de plus. et il a fini """

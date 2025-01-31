@@ -1,5 +1,5 @@
-def fonction (a,b):
-    c=a+b
+def fonction (2,5):
+    c=2+5
     return c
 
 print(fonction(3,4))
